@@ -31,6 +31,14 @@ GitHubTheme.overrideThemeStyles = () => {
       fontFamily: 'PT Sans',
     },
 
+    h3: {
+      fontWeight: 500,
+      lineHeight: 1.2,
+      marginTop: '30px',
+      marginBottom: '15px',
+      fontFamily: 'PT Sans',
+    },
+
     ul: {
       marginBottom: '6px',
     },
