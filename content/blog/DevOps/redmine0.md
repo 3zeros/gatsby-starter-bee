@@ -2,7 +2,7 @@
 title: 'How to Install Redmine 4 on CentOS 7.6'
 date: 2020-07-02 16:21:13
 category: 'DevOps'
-draft: true
+draft: false
 ---
 
 ### Before start
