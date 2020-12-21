@@ -5,6 +5,10 @@ category: devops
 thumbnail: { thumbnailSrc }
 draft: false
 ---
+Redmine is a project management applicationo, maintained by a large [commnity](redmin.org).
+Only if you have a server, you can use its enormous featrues for free.
+Since there are tons of plugins especially optimized for SW development projects out there, you should check if it satifies your needs!
+In this tutorial, I will cover how to install Redmine 4.0.7 on CentOS 7.6
 
 ### Before start
 #### Versions
